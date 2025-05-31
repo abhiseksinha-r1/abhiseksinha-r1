@@ -1,5 +1,5 @@
 ## Welcome, curious human! 👋
-I'm a Solution Architect at Microsoft, where I design enterprise-scale business applications and distributed data systems that turn complexity into clarity. My mission? To build robust, scalable platforms that drive intelligent decision-making and automation powered by AI. Yes you guessed it...Copilot.
+I'm a Solutions Architect at Microsoft, where I design enterprise-scale business applications and distributed data systems that turn complexity into clarity. My mission? To build robust, scalable platforms that drive intelligent decision-making and automation powered by AI. Yes you guessed it...Copilot.
 
 - What I’m Up To:
 
